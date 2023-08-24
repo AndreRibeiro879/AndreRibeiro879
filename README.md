@@ -1,6 +1,6 @@
 Hi, my name is André Ribeiro. I was born in Oliveira do Hospital, a litle city in center of Portugal and now I am living in Santarém.
 I am Bsc on Civil Protection (or Emergency Management if you prefere) and a Master degree on Environmental Risks and Impacts Monitoring, but I am not working on that. 
-I am abaout ten years in work market, doing things completly diferent of my formation. At this moment I am working in a fast food restaurant.
+I am about ten years in work market, doing things completly diferent of my formation. At this moment I am working in a fast food restaurant.
 As I'm tired of doing this type of work, completely mechanized and without intellectual stimulation, I decided to start learning some different things to see if I can change my work area.
 Here in Portugal, wages are low and taking a new higher education course comes out of the budget. My solution is to make mooc's and learn to program.
 I really like science, and I want to develop skills in Machine Learning and/or Deep Learning and Data Science.
